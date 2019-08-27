@@ -14,7 +14,7 @@ https://promo.strava.com/garmin/ | 30 | ✓
 https://www.strava.com/try-summit/gcn | 30 | ✓
 https://promo.strava.com/new-balance/ | 90 | ?
 https://promo.strava.com/knwu/ | 60 | ?
-https://promo.strava.com/can✓ndale/ | 60 | ?
+https://promo.strava.com/cannondale/ | 60 | ?
 https://promo.strava.com/england-athletics/ | 60 | ?
 https://promo.strava.com/fitbit-ionic/ | 60 | ?
 https://promo.strava.com/oetztaler/ | 60 | ?
