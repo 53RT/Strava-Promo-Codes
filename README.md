@@ -1,5 +1,5 @@
 # Strava-Promo-Codes
-Collection of Strava Promo Codes and Promo Links for a free Summit Membership trial
+Collection of **Strava Promo Codes** and **Promo Links** for a **free Summit Membership** trial
 
 Those codes and links work only once per account.
 
@@ -7,7 +7,9 @@ Those codes and links work only once per account.
 
 Code / Link | Days Trial | Active
 --- | --- | ---
+https://www.strava.com/try-summit/rolling60 | 60 | ✓
 https://promo.strava.com/wahoo-fitness/ | 60 | ✓
+https://www.strava.com/summit-trial/wahoo-fitness | 60 | ✓
 https://promo.strava.com/polar/ | 60 | ✓
 https://promo.strava.com/sigma-sport/ | 60 | ✓
 https://promo.strava.com/garmin/ | 30 | ✓
