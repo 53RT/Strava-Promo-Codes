@@ -1,4 +1,4 @@
-# Strava-Promo-Codes
+  # Strava-Promo-Codes
 Collection of **Strava Promo Codes** and **Promo Links** for a **free Summit Membership** trial
 
 Those codes and links work only once per account.
@@ -27,6 +27,8 @@ https://promo.strava.com/aaptiv/ | 30 | ✓
 https://promo.strava.com/de-rosa-jp/ | 30 | ✓
 https://www.strava.com/try-summit | 30 | ✓
 https://www.strava.com/try-summit/gcn | 30 | ✓
+https://promo.strava.com/cycliq/ | 60 | ✓
+https://promo.strava.com/peloton/ | 60 | ✓
 
 
 ## Inactive
