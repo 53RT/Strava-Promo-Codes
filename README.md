@@ -29,6 +29,7 @@ https://www.strava.com/try-summit | 30 | ✓
 https://www.strava.com/try-summit/gcn | 30 | ✓
 https://promo.strava.com/cycliq/ | 60 | ✓
 https://promo.strava.com/peloton/ | 60 | ✓
+https://promo.strava.com/katie/ | 30 | ✓
 
 
 ## Inactive
